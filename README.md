@@ -1,7 +1,7 @@
 # SWGOH_Auto_Battler
 Mouse mover and clicker.
 
-Overview
+<h1>Overview</h1>
 This program will take control of the mouse and clicks in various places on the screen.
 
 Explanation
