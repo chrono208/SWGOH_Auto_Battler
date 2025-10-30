@@ -5,7 +5,7 @@ Mouse mover and clicker.
 This program will take control of the mouse and clicks in various places on the screen.
 
 <h2>Explanation</h2>
-Originally, this program was designed to automatically do the 500 battles required to complete the achievements in Star War Galaxy of Heroes.
+Originally, this program was designed to automatically do the 500 battles required to complete the achievements in Star Wars Galaxy of Heroes.
 Those battles were always extremely time consuming and I built this to solve that problem and fight against the constant grind that game developers made for no reason.
 
 <h2>Specifications</h2>
